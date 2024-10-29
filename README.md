@@ -13,11 +13,12 @@ Opa!🖖🏾Tudo Bem?
 - Aspirante a Desenvolvedor Web
 - Pronomes: Ele/Dele
 - Formado em Tecnico em Multímida
-- Designer de Embalagens nas horas vagas
+- Designer Digital nas horas vagas
 
-## 📫 Como me contatar:
-
-
+## 📈 Estatísticas no GitHub:
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ithalloelzo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ithalloelzo&theme=chartreuse-dark"/> 
 
 
 <!--
